@@ -9,4 +9,5 @@ There are some challenging problems in this dataset which makes it more intresti
 - Transforming this data to perform query correctly
 - Import the data in MYSQL workbench
 - Creating insights from the dataset
+- Visualize it in power BI.
 
