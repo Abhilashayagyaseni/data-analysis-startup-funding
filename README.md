@@ -1,4 +1,4 @@
-# Startup-Fundings-data-analysis
+# Data-analysis-startup-funding
 Creating insights from pre-covid Indian startup companies data
 
 This dataset contains Indian startup companies information and funding details from 2015-2020.
