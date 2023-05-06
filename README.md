@@ -1,3 +1,4 @@
+![Screenshot (243)](https://user-images.githubusercontent.com/78147828/236619234-7bcb5d57-5980-4042-bfd3-9cf0baffaf96.png)
 # Data-analysis-startup-funding
 Creating insights from pre-covid Indian startup companies data
 
